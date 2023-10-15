@@ -1,6 +1,15 @@
-const App = () => {
-  console.log('hello from component')
+function App() {
+  const now = new Date();
+
+  //simple addition 
+  const a = 10;
+  const b = 20;
   return (
-    <p>Hello World!</p>)
+    <div> <p>Hello World, it is {now.toString()}</p>
+      <p>
+        {a} plus {b} is {a + b}
+      </p></div>
+  )
+
 }
 export default App;
