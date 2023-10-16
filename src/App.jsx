@@ -1,18 +1,9 @@
-function Hello(props) {
-  return (
-    <p>Hello {props.username}</p>
-  )
-}
-function App() {
-  let user1 = 'lokesh';
-  let user2 = 'luffy';
-  return (
-    <div>
-      <h1>Greetings</h1>
-      <Hello username={user1} />
-      <Hello username={user2} />
-    </div>
-  )
+//create a new component called App
+// a component is a piece of UIor group multiple UI pieces
+// a component can be created as a javascript function
+//it returns HTML with javascript embedded
 
+function App() {
+  return <p>Hello world !</p>
 }
 export default App;

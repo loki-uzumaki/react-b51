@@ -1,0 +1,35 @@
+[33mcommit d2a2f15fe62bbad21fca21beda321773c499e56c[m[33m ([m[1;36mHEAD -> [m[1;32mday2[m[33m)[m
+Author: loki-uzumaki <lokeshkumararaja@gmail.com>
+Date:   Mon Oct 16 10:29:54 2023 +0530
+
+    passing data as props
+
+[33mcommit 323f0cce172c624473069004028240ea5a269f3d[m[33m ([m[1;31morigin/day2[m[33m)[m
+Author: loki-uzumaki <lokeshkumararaja@gmail.com>
+Date:   Mon Oct 16 10:12:10 2023 +0530
+
+    adding multiple components
+
+[33mcommit 122db5fe5e9b515792c5b5110ec50bd84350f9ab[m
+Author: loki-uzumaki <lokeshkumararaja@gmail.com>
+Date:   Sun Oct 15 21:23:30 2023 +0530
+
+    adding dynamic content to a comonent
+
+[33mcommit e3e530c736dc518d14f54f9b738cfcd1f16fa67e[m
+Author: loki-uzumaki <lokeshkumararaja@gmail.com>
+Date:   Sun Oct 15 21:06:47 2023 +0530
+
+    added a simple console.log in the app component
+
+[33mcommit 99063a146574f1f306bdadff39735670d32ceb91[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: loki-uzumaki <lokeshkumararaja@gmail.com>
+Date:   Sun Oct 15 19:35:09 2023 +0530
+
+    project files cleaned
+
+[33mcommit b50855801f1d0d1b8956b451a58e9bb81ccff2ad[m
+Author: loki-uzumaki <lokeshkumararaja@gmail.com>
+Date:   Sun Oct 15 19:20:39 2023 +0530
+
+    initial react project setup
