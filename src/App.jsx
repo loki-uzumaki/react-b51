@@ -1,14 +1,19 @@
-import Hello from "./components/Hello";
+import React from 'react'
 
-const App = () => {
-  const age = 25;
-
+function App({ notes }) {
+  console.log(notes)
   return (
     <div>
-      <h1>Greetings</h1>
-      <Hello name='Sathish' age={10 + 20} />
-      <Hello name='Krish' age={age} />
+      <h1>Notes</h1>
+      <ul>
+        <li>{notes[0].content}</li>
+        <li>{notes[1].content}</li>
+        <li>{notes[2].content}</li>
+        <li>{notes[3].content}</li>
+        <li>{notes[4].content}</li>
+      </ul>
     </div>
   )
 }
-export default App;
+
+export default App
